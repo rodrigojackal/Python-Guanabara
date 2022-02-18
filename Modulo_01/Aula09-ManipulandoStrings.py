@@ -18,7 +18,7 @@ frase.count('o'): Conta quantos caracteres escolhidos tem na frase.
 frase.count('o',0,13): Fazendo uma contagem do 0 ao 12 e informará quantos caracteres tem neste conjunto.
 frase.find('deo'): Neste ponto irá mostrar qual a posição esta a frase.
 frase.find('Android'): Sinal que ele irá retornar menos -1, dizendo que o string não existe.
-'Curso'infrase: Mostra se existe ou não a string na variavel.
+'Curso' in frase: Mostra se existe ou não a string na variavel.
 
 # Transformação
 
